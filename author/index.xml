@@ -6,15 +6,42 @@
     <description>Recent content in Author on McCarthyEngines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2019 14:39:16 +0600</lastBuildDate>
     
 	<atom:link href="https://mccarthyengines.github.io/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Vamsee Krishna Mamanduru</title>
+      <link>https://mccarthyengines.github.io/author/vamsee-krishna-mamanduru/</link>
+      <pubDate>Fri, 12 Jul 2019 14:39:16 +0600</pubDate>
+      
+      <guid>https://mccarthyengines.github.io/author/vamsee-krishna-mamanduru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arun Naudiyal</title>
+      <link>https://mccarthyengines.github.io/author/arun-naudiyal/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://mccarthyengines.github.io/author/arun-naudiyal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mccarthyengines.github.io/author/jamica-jock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mccarthyengines.github.io/author/jamica-jock/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu magna arcu.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://mccarthyengines.github.io/author/john-doe/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mccarthyengines.github.io/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar turpis ac est vulputate egestas at vitae nunc.</description>
@@ -23,28 +50,10 @@
     <item>
       <title></title>
       <link>https://mccarthyengines.github.io/author/somrat/</link>
-      <pubDate>Wed, 12 Sep 2018 14:39:16 +0600</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mccarthyengines.github.io/author/somrat/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://mccarthyengines.github.io/author/jamica-jock/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://mccarthyengines.github.io/author/jamica-jock/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu magna arcu.</description>
-    </item>
-    
-    <item>
-      <title>Themefisher</title>
-      <link>https://mccarthyengines.github.io/author/themefisher/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mccarthyengines.github.io/author/themefisher/</guid>
-      <description></description>
     </item>
     
   </channel>

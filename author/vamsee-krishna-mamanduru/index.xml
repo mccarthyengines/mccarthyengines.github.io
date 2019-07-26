@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>McCarthyEngines</title>
-    <link>https://mccarthyengines.github.io/</link>
-    <description>Recent content on McCarthyEngines</description>
+    <title>Vamsee Krishna Mamanduru on McCarthyEngines</title>
+    <link>https://mccarthyengines.github.io/author/vamsee-krishna-mamanduru/</link>
+    <description>Recent content in Vamsee Krishna Mamanduru on McCarthyEngines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jul 2019 14:39:16 +0600</lastBuildDate>
     
-	<atom:link href="https://mccarthyengines.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mccarthyengines.github.io/author/vamsee-krishna-mamanduru/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,15 +27,6 @@
       
       <guid>https://mccarthyengines.github.io/blog/simple-image-posts/</guid>
       <description>Challenge: Many supply chain networks evolve from individual decisions made over extended periods to satisfy specific business needs.</description>
-    </item>
-    
-    <item>
-      <title>Forecasting with Demand Engine</title>
-      <link>https://mccarthyengines.github.io/blog/are-you-doing-the-right-way/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      
-      <guid>https://mccarthyengines.github.io/blog/are-you-doing-the-right-way/</guid>
-      <description>Challenge: Demand planning approaches that rely on historical sales, with no consideration of external causal factors, are insufficient.</description>
     </item>
     
   </channel>

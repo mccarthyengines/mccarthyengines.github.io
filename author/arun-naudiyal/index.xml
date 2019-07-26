@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arun Naudiyal on McCarthyEngines</title>
+    <link>https://mccarthyengines.github.io/author/arun-naudiyal/</link>
+    <description>Recent content in Arun Naudiyal on McCarthyEngines</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
+    
+	<atom:link href="https://mccarthyengines.github.io/author/arun-naudiyal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forecasting with Demand Engine</title>
+      <link>https://mccarthyengines.github.io/blog/are-you-doing-the-right-way/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://mccarthyengines.github.io/blog/are-you-doing-the-right-way/</guid>
+      <description>Challenge: Demand planning approaches that rely on historical sales, with no consideration of external causal factors, are insufficient.</description>
+    </item>
+    
+  </channel>
+</rss>

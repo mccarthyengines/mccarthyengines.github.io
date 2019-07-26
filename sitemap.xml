@@ -3,8 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mccarthyengines.github.io/author/john-doe/</loc>
+    <loc>https://mccarthyengines.github.io/author/</loc>
+    <lastmod>2019-07-12T14:39:16+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mccarthyengines.github.io/blog/</loc>
+    <lastmod>2019-07-12T14:39:16+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mccarthyengines.github.io/blog/simple-post-title/</loc>
+    <lastmod>2019-07-12T14:39:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mccarthyengines.github.io/</loc>
+    <lastmod>2019-07-12T14:39:16+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mccarthyengines.github.io/author/vamsee-krishna-mamanduru/</loc>
+    <lastmod>2019-07-12T14:39:16+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mccarthyengines.github.io/blog/simple-image-posts/</loc>
+    <lastmod>2019-07-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mccarthyengines.github.io/author/arun-naudiyal/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,41 +48,15 @@
   </url>
   
   <url>
-    <loc>https://mccarthyengines.github.io/author/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <priority>0</priority>
+    <loc>https://mccarthyengines.github.io/author/jamica-jock/</loc>
   </url>
   
   <url>
-    <loc>https://mccarthyengines.github.io/blog/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mccarthyengines.github.io/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <priority>0</priority>
+    <loc>https://mccarthyengines.github.io/author/john-doe/</loc>
   </url>
   
   <url>
     <loc>https://mccarthyengines.github.io/author/somrat/</loc>
-    <lastmod>2018-09-12T14:39:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mccarthyengines.github.io/blog/simple-post-title/</loc>
-    <lastmod>2018-09-12T14:39:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mccarthyengines.github.io/author/jamica-jock/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mccarthyengines.github.io/blog/simple-image-post/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
@@ -56,41 +65,7 @@
   </url>
   
   <url>
-    <loc>https://mccarthyengines.github.io/blog/installation/</loc>
-  </url>
-  
-  <url>
     <loc>https://mccarthyengines.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mccarthyengines.github.io/author/themefisher/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mccarthyengines.github.io/tags/golang/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mccarthyengines.github.io/tags/hugo/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mccarthyengines.github.io/tags/programming/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mccarthyengines.github.io/categories/starting/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mccarthyengines.github.io/tags/theme/</loc>
     <priority>0</priority>
   </url>
   
